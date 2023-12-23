@@ -1,5 +1,3 @@
-## dream and build with sumeet
-
 # find a Job
 
 - create a job
@@ -23,6 +21,6 @@ make a app => Dart (flatter).
 Scraping
 Chrown job
 
-### Learning while doing.
+## Learning while doing.
 
 -
