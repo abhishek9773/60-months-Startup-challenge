@@ -1,0 +1,2 @@
+- learn about CA
+- Chief Techniical officer.
